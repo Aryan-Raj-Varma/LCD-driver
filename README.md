@@ -160,4 +160,4 @@ MIT License. Free to use, modify, and distribute.
 
 ## Author
 
-**Aryan** — February 2026
+**Aryan**
